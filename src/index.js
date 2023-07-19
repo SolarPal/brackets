@@ -11,8 +11,6 @@ module.exports = function check(str, bracketsConfig) {
         //console.log("New array: " + strArr);
         i = -1;
         iConf = -1;
-      } else {
-        continue;
       }
     }
   }
